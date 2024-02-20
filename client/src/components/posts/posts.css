@@ -1,0 +1,17 @@
+/* .posts{
+    flex:6;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    margin: 20px; 
+}
+/* .po{
+    display: flex;
+} */ 
+
+.posts{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
